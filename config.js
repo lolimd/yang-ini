@@ -28,33 +28,33 @@ let wibh = moment.tz('Asia/Jakarta').format('HH')
 /*============== SOCIAL ==============*/
 
 // kalo ga punya ketik "-" atau biarin aja biar ada creditsnya :v
-global.sig = 'https://www.instagram.com/faaaarr__'
+global.sig = 'https://www.instagram.com/caaa_833/'
 global.sgh = 'https://github.com/Faarz'
 global.sgc = 'https://chat.whatsapp.com/ChDmgKcqXQV7EL9Pzgou8E'
 global.sdc = 'https://discord.gg/WEJQjugTY7'
 global.snh = 'https://nhentai.net/g/365296/'
 
 /*============== PAYMENT ==============*/
-global.pdana = '085692949920'
-global.povo = '085692949920'
-global.pgopay = '085692949920'
-global.ppulsa = '085692949920'
-global.ppulsa2 = '085692949920'
+global.pdana = '6283843427860'
+global.povo = '6283843427860'
+global.pgopay = '6283843427860'
+global.ppulsa = '6283843427860'
+global.ppulsa2 = '6283843427860'
 global.psaweria = 'https://saweria.com/faarz'
 
 /*============== NOMOR ==============*/
-global.nomorbot = '6285692949920'
-global.nomorown = '6285692949920'
-global.namebot = 'Asuna-Md'
-global.nameown = 'Farid'
+global.nomorbot = '6283843427860'
+global.nomorown = '6283843427860'
+global.namebot = 'Miaw Bot-Md'
+global.nameown = 'Ichaa'
 
 
 /*============== STAFF ==============*/
 global.owner = [
-  ['6285692949920'],
+  ['6283843427860'],
   ['6281575900615'],
   ['6285692949920'],
-  ['6285692949920', '❦ Farid Xfar', true]
+  ['6285692949920', '❦ Icha', true]
   // [number, dia creator/owner?, dia developer?]
 ] // Put your number here
 global.mods = [] // Want some help?
@@ -99,13 +99,13 @@ global.APIKeys = { // APIKey Here
 // Kata APIKEY itu isi dengan apikey lu sendiri, dengan beli ke website itu
 
 /*============== WATERMARK ==============*/
-global.wm = '                「 Asuna BOT あ⁩ 」' //Main Watermark
-global.wm2 = '꒷︶꒷꒥꒷ ‧₊˚ ꒰ฅ˘Asuna-Md˘ฅ ꒱ ‧₊˚꒷︶꒷꒥꒷'
-global.wm3 = '⫹⫺ Asuna-Md'
+global.wm = '                「 Miaw BOT あ⁩ 」' //Main Watermark
+global.wm2 = '꒷︶꒷꒥꒷ ‧₊˚ ꒰ฅ˘Miaw-Md˘ฅ ꒱ ‧₊˚꒷︶꒷꒥꒷'
+global.wm3 = '⫹⫺ Miaw-Md'
 global.botdate = `⫹⫺ 𝗗𝗮𝘁𝗲: ${week} ${date}\n⫹⫺ 𝗧𝗶𝗺𝗲: ${wktuwib}`
 global.bottime = `𝗧 𝗜 𝗠 𝗘 : ${wktuwib}`
-global.titlebot = `⫹⫺ AsunaBOT Whatsapp | By ${global.nameown}`
-global.author = '                「 Asuna BOT あ⁩ 」'
+global.titlebot = `⫹⫺ Miaw BOT Whatsapp | By ${global.nameown}`
+global.author = '                「 Miaw BOT あ⁩ 」'
 
 
 /*============== LOGO ==============*/
