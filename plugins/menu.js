@@ -263,7 +263,7 @@ ${clockStringP(usrs.premiumTime - new Date())}` : ''}
 const listMessage = {
   text: tek,
   footer: '📮 *Note:* Jika menemukan bug, error atau kesulitan dalam penggunaan silahkan laporkan/tanyakan kepada Owner',
-  title: `${htki} *ASUNA BOT-MD* ${htka}`,
+  title: `${htki} *MIAW BOT-MD* ${htka}`,
   buttonText: `LIST MENU ⎙`,
   sections
 }
