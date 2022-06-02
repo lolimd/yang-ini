@@ -28,33 +28,33 @@ let wibh = moment.tz('Asia/Jakarta').format('HH')
 /*============== SOCIAL ==============*/
 
 // kalo ga punya ketik "-" atau biarin aja biar ada creditsnya :v
-global.sig = 'https://www.instagram.com/caaa_833/'
-global.sgh = 'https://github.com/Faarz'
-global.sgc = 'https://chat.whatsapp.com/ChDmgKcqXQV7EL9Pzgou8E'
-global.sdc = 'https://discord.gg/WEJQjugTY7'
+global.sig = 'https://www.instagram.com/Zetwo_botz/'
+global.sgh = 'https://github.com/JakaV1'
+global.sgc = 'https://chat.whatsapp.com/ED7th5Ie38eBayZEbDPxwY'
+global.sdc = 'Wa.me/6285785694474'
 global.snh = 'https://nhentai.net/g/365296/'
 
 /*============== PAYMENT ==============*/
-global.pdana = '6283843427860'
-global.povo = '6283843427860'
-global.pgopay = '6283843427860'
-global.ppulsa = '6283843427860'
-global.ppulsa2 = '6283843427860'
-global.psaweria = 'https://saweria.com/faarz'
+global.pdana = '6281335334848'
+global.povo = '-'
+global.pgopay = '6285785694474'
+global.ppulsa = '6281335334848'
+global.ppulsa2 = '6281335334848'
+global.psaweria = '-'
 
 /*============== NOMOR ==============*/
-global.nomorbot = '6283843427860'
-global.nomorown = '6283843427860'
-global.namebot = 'Miaw Bot-Md'
-global.nameown = 'Ichaa'
+global.nomorbot = '6281335334848'
+global.nomorown = '6285785694474'
+global.namebot = 'ZeroTwo-Botz'
+global.nameown = 'Jaka-Kun'
 
 
 /*============== STAFF ==============*/
 global.owner = [
-  ['6283843427860'],
-  ['6281575900615'],
-  ['6285692949920'],
-  ['6285692949920', '❦ Icha', true]
+  ['6285785694474'],
+  ['6285785694474'],
+  ['6285785694474'],
+  ['6285785694474', '❦ Jaka', true]
   // [number, dia creator/owner?, dia developer?]
 ] // Put your number here
 global.mods = [] // Want some help?
@@ -99,20 +99,20 @@ global.APIKeys = { // APIKey Here
 // Kata APIKEY itu isi dengan apikey lu sendiri, dengan beli ke website itu
 
 /*============== WATERMARK ==============*/
-global.wm = '                「 Miaw BOT あ⁩ 」' //Main Watermark
-global.wm2 = '꒷︶꒷꒥꒷ ‧₊˚ ꒰ฅ˘Miaw-Md˘ฅ ꒱ ‧₊˚꒷︶꒷꒥꒷'
-global.wm3 = '⫹⫺ Miaw-Md'
+global.wm = '                「 ZeroTwo Botz あ⁩ 」' //Main Watermark
+global.wm2 = '꒷︶꒷꒥꒷ ‧₊˚ ꒰ฅ˘ZeroTwo Botz˘ฅ ꒱ ‧₊˚꒷︶꒷꒥꒷'
+global.wm3 = '⫹⫺ ZeroTwo Botz'
 global.botdate = `⫹⫺ 𝗗𝗮𝘁𝗲: ${week} ${date}\n⫹⫺ 𝗧𝗶𝗺𝗲: ${wktuwib}`
 global.bottime = `𝗧 𝗜 𝗠 𝗘 : ${wktuwib}`
-global.titlebot = `⫹⫺ Miaw BOT Whatsapp | By ${global.nameown}`
-global.author = '                「 Miaw BOT あ⁩ 」'
+global.titlebot = `⫹⫺ ZeroTwo Botz Whatsapp | By ${global.nameown}`
+global.author = '                「 ZeroTwo Botz あ⁩ 」'
 
 
 /*============== LOGO ==============*/
-global.thumb = 'https://telegra.ph/file/4118cd058179b41eb4c18.jpg' //Main Thumbnail
-global.imagebot = 'https://telegra.ph/file/4118cd058179b41eb4c18.jpg'
-global.giflogo = 'https://telegra.ph/file/4118cd058179b41eb4c18.jpg'
-global.thumbs = ['https://telegra.ph/file/4118cd058179b41eb4c18.jpg', 'https://telegra.ph/file/f87047ec6e5f0d4a9ea91.jpg', 'https://telegra.ph/file/88edbb01051b397574def.jpg','https://telegra.ph/file/7957630a57078c5ec0400.jpg']
+global.thumb = 'https://telegra.ph/file/7bb27e29a49399cc9ec77.jpg' //Main Thumbnail
+global.imagebot = 'https://telegra.ph/file/7bb27e29a49399cc9ec77.jpg'
+global.giflogo = 'https://telegra.ph/file/7bb27e29a49399cc9ec77.jpg'
+global.thumbs = ['https://telegra.ph/file/7bb27e29a49399cc9ec77.jpg', 'https://telegra.ph/file/7bb27e29a49399cc9ec77.jpg', 'https://telegra.ph/file/7bb27e29a49399cc9ec77.jpg','https://telegra.ph/file/7bb27e29a49399cc9ec77.jpg']
 global.fla = 'https://www6.flamingtext.com/net-fu/proxy_form.cgi?&imageoutput=true&script=sketch-name&doScale=true&scaleWidth=800&scaleHeight=500&fontsize=100&fillTextType=1&fillTextPattern=Warning!&text='
 
 /*============== HENTAI ==============*/ 
