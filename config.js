@@ -44,16 +44,16 @@ global.psaweria = '-'
 
 /*============== NOMOR ==============*/
 global.nomorbot = '6281335334848'
-global.nomorown = '6285785694474'
+global.nomorown = '79911716214'
 global.namebot = 'ZeroTwo-Botz'
 global.nameown = 'Jaka-Kun'
 
 
 /*============== STAFF ==============*/
 global.owner = [
-  ['6285785694474'],
-  ['6285785694474'],
-  ['6285785694474'],
+  ['79911716214'],
+  ['79911716214'],
+  ['79911716214'],
   ['6285785694474', '❦ Jaka', true]
   // [number, dia creator/owner?, dia developer?]
 ] // Put your number here
